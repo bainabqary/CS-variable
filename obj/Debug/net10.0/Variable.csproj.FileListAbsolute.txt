@@ -1,0 +1,14 @@
+/home/bain/C#/Variable/bin/Debug/net10.0/Variable
+/home/bain/C#/Variable/bin/Debug/net10.0/Variable.deps.json
+/home/bain/C#/Variable/bin/Debug/net10.0/Variable.runtimeconfig.json
+/home/bain/C#/Variable/bin/Debug/net10.0/Variable.dll
+/home/bain/C#/Variable/bin/Debug/net10.0/Variable.pdb
+/home/bain/C#/Variable/obj/Debug/net10.0/Variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/bain/C#/Variable/obj/Debug/net10.0/Variable.AssemblyInfoInputs.cache
+/home/bain/C#/Variable/obj/Debug/net10.0/Variable.AssemblyInfo.cs
+/home/bain/C#/Variable/obj/Debug/net10.0/Variable.csproj.CoreCompileInputs.cache
+/home/bain/C#/Variable/obj/Debug/net10.0/Variable.dll
+/home/bain/C#/Variable/obj/Debug/net10.0/refint/Variable.dll
+/home/bain/C#/Variable/obj/Debug/net10.0/Variable.pdb
+/home/bain/C#/Variable/obj/Debug/net10.0/Variable.genruntimeconfig.cache
+/home/bain/C#/Variable/obj/Debug/net10.0/ref/Variable.dll
